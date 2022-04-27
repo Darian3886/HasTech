@@ -224,7 +224,7 @@ second color: #08526d */
 
 @media (max-width: 767.98px) {
     .overview p {
-        line-height: 1;
+        line-height: 1.5;
         font-size: 15px;
         width: 100%;
         color: #6a6a6a;
